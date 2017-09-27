@@ -1,2 +1,7 @@
 # hello-world
-This is a basic repository to learn git
+I'm a lumberjack, and I:
+
+*am okay
+*sleep all night
+*work all day
+
